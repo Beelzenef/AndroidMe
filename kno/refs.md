@@ -1,0 +1,17 @@
+# Referencias en la red
+
+* [Lanzando un DatePicker](https://stackoverflow.com/a/14933515/6659852?sgp=2)
+* [Cuando el tamaño de un TextView cambia su tamaño al girar](https://stackoverflow.com/questions/22935490/orientation-change-increases-textviews-text-size/22936197#22936197)
+* [Añadiendo items a un Spinner (vídeo)](https://youtu.be/npckz4GGxEs)
+* [Añadiendo items a un Spinner](https://stackoverflow.com/questions/5241660/how-can-i-add-items-to-a-spinner-in-android/16026235#16026235)
+* [De fechas a strings y viceversa](https://stackoverflow.com/questions/8573250/android-how-can-i-convert-string-to-date/8573343?sgp=2#8573343)
+* [Buenas prácticas usando Fragments](https://gpmess.com/blog/2014/04/16/buenas-practicas-usando-fragments-en-android)
+* [Mostrando menú contextual en una lista](https://www.mikeplate.com/2010/01/21/show-a-context-menu-for-long-clicks-in-an-android-listview/)
+* [Creando un ArrayList de un array (string-array en Resources :smirk:)](https://stackoverflow.com/questions/157944/create-arraylist-from-array/157950#157950)
+* [Diferencias entre onClick (XML) y OnClickListener (Java)](https://stackoverflow.com/questions/7453299/difference-between-onclick-event-and-onclicklistener/7453469#7453469)
+* [Pasando un POJO serializable a través de un Intent](https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable/33223788#33223788)
+
+## Sobre MVP
+
+* [Explicando MVP a las ovejas (Codictados)](http://codictados.com/mvp/)
+* [Tutorial de MVP (Platzi) (vídeo)](https://youtu.be/qWh1QlRpKxk)
