@@ -10,6 +10,13 @@
 * [Creando un ArrayList de un array (string-array en Resources :smirk:)](https://stackoverflow.com/questions/157944/create-arraylist-from-array/157950#157950)
 * [Diferencias entre onClick (XML) y OnClickListener (Java)](https://stackoverflow.com/questions/7453299/difference-between-onclick-event-and-onclicklistener/7453469#7453469)
 * [Pasando un POJO serializable a través de un Intent](https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable/33223788#33223788)
+---
+* [Agregando fuentes a nuestros proyectos (¡úsalas con precaución!)](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml.html)
+---
+* [Hablando con el sistema operativo, ¡preferencias!](http://www.sgoliver.net/blog/preferencias-en-android-ii-preferenceactivity/)
+
+## Sobre ViewModel
+* [Descubriendo el patrón ViewModel en Android](https://developer.android.com/topic/libraries/architecture/guide.html)
 
 ## Sobre MVP
 
