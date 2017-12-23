@@ -17,6 +17,8 @@
 
 ## Sobre ViewModel
 * [Descubriendo el patrón ViewModel en Android](https://developer.android.com/topic/libraries/architecture/guide.html)
+* [A simple example on ViewModel](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e)
+* [Architecture Components: ViewModel (vídeo)](https://youtu.be/c9-057jC1ZA)
 
 ## Sobre MVP
 
