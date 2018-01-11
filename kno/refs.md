@@ -24,3 +24,8 @@
 
 * [Explicando MVP a las ovejas (Codictados)](http://codictados.com/mvp/)
 * [Tutorial de MVP (Platzi) (vídeo)](https://youtu.be/qWh1QlRpKxk)
+
+## NavigationDrawer y Fragments
+
+* [Navigation Drawer + Fragments en Desarrollador-Android.com](https://desarrollador-android.com/material-design/desarrollo-material-design/pautas-desarrollo/navigation-drawer-con-fragments/)
+* [Navigation Drawer + Fragments en HermosaProgramación.com](http://www.hermosaprogramacion.com/2015/09/aplicacion-android-con-navigation-drawer-y-tabs/)
