@@ -29,3 +29,8 @@
 
 * [Navigation Drawer + Fragments en Desarrollador-Android.com](https://desarrollador-android.com/material-design/desarrollo-material-design/pautas-desarrollo/navigation-drawer-con-fragments/)
 * [Navigation Drawer + Fragments en HermosaProgramación.com](http://www.hermosaprogramacion.com/2015/09/aplicacion-android-con-navigation-drawer-y-tabs/)
+
+## Patrón _Publisher-Suscriptor_
+
+* [¿Qué es EventBus?](http://greenrobot.org/eventbus/)
+* [Tutorial en tres pasos](http://greenrobot.org/eventbus/documentation/how-to-get-started/)

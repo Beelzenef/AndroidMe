@@ -1,5 +1,7 @@
 # Android me!
 
+![](https://www.trendinginfo.net/wp-content/uploads/2016/10/android-app-banner.jpg)
+
 yet another Android development cookbook!
 
 ## Contenidos
