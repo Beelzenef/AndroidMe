@@ -48,3 +48,10 @@
 
 * [Tutorial Android + Sqlite en HermosaProgramación.com](http://www.hermosaprogramacion.com/2014/10/android-sqlite-bases-de-datos/)
 
+### greenDAO
+
+* [_Getting started_](http://greenrobot.org/greendao/documentation/how-to-get-started/)
+* [Documentación](http://greenrobot.org/greendao/documentation/)
+* [Introducción: _gradle_ e inicialización](http://greenrobot.org/greendao/documentation/introduction/)
+* [Repositorio greenDAO en GitHub](https://github.com/greenrobot/greenDAO)
+* [¿Qué es ORM?](https://programarfacil.com/blog/que-es-un-orm/)
