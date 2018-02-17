@@ -68,3 +68,6 @@ Un constructor privado que recibe un Parcel, a través del cual construir. Y un 
 ```
 
 La ausencia de este código genera fallos a la hora de transportar instancias POJO entre Activities.
+
+---
+#### [Volver a inicio](../README.md)
