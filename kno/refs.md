@@ -63,3 +63,9 @@
 * [Introducción: _gradle_ e inicialización](http://greenrobot.org/greendao/documentation/introduction/)
 * [Repositorio greenDAO en GitHub](https://github.com/greenrobot/greenDAO)
 * [¿Qué es ORM?](https://programarfacil.com/blog/que-es-un-orm/)
+
+## ContentProvider
+
+* [CalendarProvider (Android docs)](https://developer.android.com/guide/topics/providers/calendar-provider.html)
+* [Tutorial ContentProvider](https://es.scribd.com/document/29737789/Android-Content-Provider-tutorial)
+* [Crear ContentProviders en Android (parte 1) (SGOliver)](http://www.sgoliver.net/blog/content-providers-en-android-i-construccion/)
