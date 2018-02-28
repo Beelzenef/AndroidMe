@@ -11,11 +11,19 @@
 * [Diferencias entre onClick (XML) y OnClickListener (Java) (Stackoverflow)](https://stackoverflow.com/questions/7453299/difference-between-onclick-event-and-onclicklistener/7453469#7453469)
 * [Pasando un POJO serializable a través de un Intent (Stackoverflow)](https://stackoverflow.com/questions/14333449/passing-data-through-intent-using-serializable/33223788#33223788)
 * [Clase _SystemClock_](https://developer.android.com/reference/android/os/SystemClock.html)
----
+* [¿Tu _Logcat_ no muestra nada?](https://stackoverflow.com/a/39749947/6659852)
+
+## Fuentes
+
 * [Agregando fuentes a nuestros proyectos (¡úsalas con precaución!)](https://developer.android.com/guide/topics/ui/look-and-feel/fonts-in-xml.html)
----
+
+## Preferencias
+
 * [Hablando con el sistema operativo, ¡preferencias!](http://www.sgoliver.net/blog/preferencias-en-android-ii-preferenceactivity/)
----
+
+## _AsyncTask_
+
+* [¿Qué es _AsyncTask?](http://www.sgoliver.net/blog/tareas-en-segundo-plano-en-android-i-thread-y-asynctask/)
 * [Cancelando un AsyncTask](https://gist.github.com/noaht11/57ddfeaa82123b5f216c#file-oc-asynctaskcancelactivity-java)
 
 ## Sobre ViewModel
