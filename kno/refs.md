@@ -46,6 +46,11 @@
 * [¿Qué es EventBus?](http://greenrobot.org/eventbus/)
 * [Tutorial en tres pasos](http://greenrobot.org/eventbus/documentation/how-to-get-started/)
 
+## Consumiendo APIs
+
+* [Consumir una API con Retrofit](https://programacionymas.com/blog/consumir-una-api-usando-retrofit)
+* [_A Java Reddit API Wrapper_](https://github.com/mattbdean/JRAW)
+
 ## Multiselección en RecyclerView
 
 * [¿Cómo hacer multiselección en RecyclerView (Stackoverflow)](https://stackoverflow.com/questions/38650131/how-to-perform-multiselection-in-recyclerview)
