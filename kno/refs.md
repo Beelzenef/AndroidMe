@@ -74,3 +74,9 @@
 * [CalendarProvider (Android docs)](https://developer.android.com/guide/topics/providers/calendar-provider.html)
 * [Tutorial ContentProvider](https://es.scribd.com/document/29737789/Android-Content-Provider-tutorial)
 * [Crear ContentProviders en Android (parte 1) (SGOliver)](http://www.sgoliver.net/blog/content-providers-en-android-i-construccion/)
+
+## BottomNavigation
+
+* [_BottomNavigation_ según MaterialDesign](https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-behavior)
+* [Android Studio Tutorial - Bottom Navigation View (vídeo)](https://www.youtube.com/watch?v=wcE7IIHKfRg)
+* [Exploring the Android Design Support Library: Bottom Navigation View (Medium.com)](https://medium.com/@hitherejoe/exploring-the-android-design-support-library-bottom-navigation-drawer-548de699e8e0)
