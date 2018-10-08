@@ -22,7 +22,8 @@ yet another Android development cookbook!
 * [_Adapters_](kno/mvp/listas.md)
 * [Operando con Fragments]()
 
-### Buscando en la red en la red
+### Buscando en la red
 
 * [Librerías de interés](kno/libs.md)
 * [Enlaces a dudas resueltas en la red](kno/refs.md)
+* [Android Asset Studio, tools to easily generate assets](https://romannurik.github.io/AndroidAssetStudio/index.html)
