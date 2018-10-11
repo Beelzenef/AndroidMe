@@ -27,3 +27,4 @@ yet another Android development cookbook!
 * [Librerías de interés](kno/libs.md)
 * [Enlaces a dudas resueltas en la red](kno/refs.md)
 * [Android Asset Studio, tools to easily generate assets](https://romannurik.github.io/AndroidAssetStudio/index.html)
+* [Selector de colores - Material Design](https://material.io/tools/color/#!/?view.left=0&view.right=0)
